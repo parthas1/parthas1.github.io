@@ -5,7 +5,8 @@ date: 2017-10-09
 order: 1
 ---
 
-<p><span class="quote"> "Curiosity does, no less than devotion, pilgrims make "></span>
+<p><span class="quote"> "Curiosity does, no less than devotion, pilgrims make."></span></p>
+<span class="quote-author"> - Abraham Cowley</span>
 
 Welcome. 
 
