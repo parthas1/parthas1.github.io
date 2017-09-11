@@ -1,0 +1,9 @@
+# Site Settings
+title: Rohan Bavishi's Homepage
+email: rohan.bavishi95@gmail.com
+description: >
+        Rohan Bavishi's Homepage
+baseurl: ""
+url: "https://rbavishi.github.io"
+github_username: rbavishi
+include: ['_sections']
