@@ -5,7 +5,7 @@ date:   2017-09-10 12:00:00
 order: 2
 ---
 
-### Graduate School
+### Graduate
 
 #### Fluids
 

@@ -14,6 +14,6 @@ I'm a graduate student pursuing <a href="http://mechanical.illinois.edu/">Mechan
 
 An armchair thinker, I love anything remotely related to fantasy, mystery and conspiracy theories - I would definitely consider cryptozoology as an avocation. I also have a penchant for history and historical figures. I indulge myself in music (Rock, Metal & more recently Pop), TV Series (This list is enormous - my favorite ones include Seinfeld, South Park, Scrubs and IASIP) and occasionally quizzing. I love to code and learn new stuff along the way. Reddit satisfies my everyday recreational needs, although I thoroughly indulge in the occasional travel and hike.   
 
-<a href="/cv.pdf">Here</a> is a link to my CV. Feel free to contact me via any of the platforms mentioned on the sidebar. Cheers!
+<a href="/cv.pdf">Here</a> is a link to my CV and <a href="https://sites.google.com/site/tejaswinsarathy/"> here </a> is my old personal site. Feel free to contact me via any of the platforms mentioned on the sidebar. Cheers!
 
 * Shoutout to <a href="https://rbavishi.github.io/">Rohan Bavishi</a> from whom I directly lifted the website front and backend 
