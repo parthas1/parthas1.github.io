@@ -4,17 +4,28 @@ title: Publications
 date:   2016-11-30 12:00:00
 order: 3
 ---
+Ranked chronologically
 
-#### **To Be Precise : Regression Aware Debugging**  
-***Rohan Bavishi***, Awanish Pandey, Subhajit Roy  
-OOPSLA '16  
-Proceedings of the 2016 ACM International Conference on Object Oriented Programming Systems Languages & Applications (OOPSLA), Amsterdam, Netherlands  
-[[pdf](/docs/oopsla16-paper.pdf)] [[dl-link](http://dl.acm.org/citation.cfm?id=2984014)]
+#### **Scaling arguments for flows induced by oscillating cylinders**  
+###**Tejaswin Parthasarathy**, Mattia Gazzola
+70th Annual Meeting of the APS Division of Fluid Dynamics, Denver, USA  
+[[dl-link](http://meetings.aps.org/Meeting/DFD17/Session/M14.5)]
 
-#### **Regression Aware Debugging for Mobile Applications**  
-***Rohan Bavishi***, Awanish Pandey, Subhajit Roy  
-Mobile! '16 *(Invited Paper)*   
-Proceedings of the 1st International Workshop on Mobile Development (Mobile!) 2016, Amsterdam, Netherlands  
-[[pdf](/docs/mobile16-paper.pdf)] [[dl-link](http://dl.acm.org/citation.cfm?id=3001854.3001860)]
+#### **Viscous streaming for locomotion and transport**  
+### Mattia Gazzola, **Tejaswin Parthasarathy**  
+70th Annual Meeting of the APS Division of Fluid Dynamics, Denver, USA
+[[dl-link](http://meetings.aps.org/Meeting/DFD17/Session/M13.10)]
 
+#### **Effect of parameters on controlled flow using synthetic jet**
+### Das SP, **Tejaswin Parthasarathy**
+International Journal of Fluid Mechanics Research
+[[dl-link](http://www.dl.begellhouse.com/journals/71cb29ca5b40f8f8,forthcoming,18329.html)]
+ #### **Some aspects of flow control over a NACA0015 airfoil using synthetic jets**
+### **Tejaswin Parthasarathy**, Das SP 
+15th Asian Congress of Fluid Mechanics
+[[dl-link](http://stacks.iop.org/1742-6596/822/i=1/a=012009)]
 
+#### **Some aspects of flow control over a NACA0015 airfoil using synthetic jets**
+### **Tejaswin Parthasarathy**, Vignesh Srinivasaragavan and Soundarapandian Santhanakrishnan
+ICMME 2016
+[[dl-link](https://doi.org/10.1051/matecconf/20179508002)]

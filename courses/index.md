@@ -1,31 +1,45 @@
 ---
 layout: page 
-title: Courses 
-date:   2016-10-20 12:00:00
+title: Academics 
+date:   2017-09-10 12:00:00
 order: 2
 ---
 
 ### Graduate School
 
-## Fluids
+#### Fluids
+
 * Inviscid Flows
 * Viscous Flows   
 * Aeroacoustics   
-* Introduction to Electronics
-* Mathematics - Calculus
-* Mathematics - Linear Algebra
-* Logic for Computer Science   
-* Abstract Algebra   
-* Computer Organisation   
-* Advanced Algorithms   
-* Operating Systems   
-* Theory of Computation   
-* Compilers
-* Computer Architecture
+
+#### Numerics
+
+* Fast Algorithms and Integral Equation Methods
+* Numerical Fluid Dynamics
+* Computational Mechanics
+
+#### Math and Computing
+
+* Partial Differential Equations
+* Parallel Programming
+
 
 ### Undergraduate 
 
-* Principles of Programming Languages
-* Computer Networks
-* Program Analysis, Verification and Testing   
+#### Fluids
 
+* Advanced FM
+* Introduction to Turbulent Flows   
+* Flow and Thermal Instabilities   
+
+#### Numerics
+
+* Introduction to Computational Fluid Dynamics 
+* Design and Optimization of Energy Systems
+
+#### Math and Computing
+
+* Calculus
+* Differential Equations
+* Linear Algebra and Numerical Analysis
