@@ -5,11 +5,12 @@ date:   2016-10-20 12:00:00
 order: 2
 ---
 
-### Past
+### Graduate School
 
-* Fundamentals of Computing
-* Data Structures & Algorithms   
-* Discrete Mathematics   
+## Fluids
+* Inviscid Flows
+* Viscous Flows   
+* Aeroacoustics   
 * Introduction to Electronics
 * Mathematics - Calculus
 * Mathematics - Linear Algebra
@@ -22,7 +23,7 @@ order: 2
 * Compilers
 * Computer Architecture
 
-### Ongoing 
+### Undergraduate 
 
 * Principles of Programming Languages
 * Computer Networks
