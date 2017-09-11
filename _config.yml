@@ -1,9 +1,9 @@
 # Site Settings
-title: Rohan Bavishi's Homepage
-email: rohan.bavishi95@gmail.com
+title: Tejaswin Parthasarathy's Homepage
+email: ##
 description: >
-        Rohan Bavishi's Homepage
+        Tejaswin Parthasarathy's Homepage
 baseurl: ""
-url: "https://rbavishi.github.io"
-github_username: rbavishi
+url: "https://parthas1.github.io/"
+github_username: parthas1
 include: ['_sections']

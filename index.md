@@ -1,18 +1,17 @@
 ---
 layout: page
 title: Home
-date: 2016-10-12
+date: 2017-10-09
 order: 1
 ---
 
-<p><span class="quote"> "Nothing in this world can take the place of persistence. <br>Talent will not. Genius will not. Education will not. <br>Persistence and determination alone are omnipotent."</span></p>
-<span class="quote-author"> - Calvin Coolidge</span>
+<p><span class="quote"> "Curiosity does, no less than devotion, pilgrims make "></span>
 
-Hi, I'm a fourth-year CS undergrad at IIT Kanpur. My research interests include Program Analysis, Formal Verification (specifically Automatic Program Debugging & Repair), Decision Procedures and Compilers.
+Welcome. 
 
-Apart from academics, I'm passionate about Western Classical Arts, especially the Baroque, Classical and Impressionist periods, as well as Classical Music. 
-I'm also a history buff, interested in studying the transitions between different cultural periods. 
-I am also keen about systems programming, and I actively participate in online CTFs and Wargames to learn more about various systems in general.
+I'm a graduate student pursuing <a href="http://mechanical.illinois.edu/">Mechanical Sciences</a> at the <a href="http://illinois.edu/">University of Illinois at Urbana-Champaign</a>. My research is focused on uncovering fundamental fluid physics using accurate numerical algorithms, high performance parallel computing techniques and a multittude of techniques for data analysis. I'm also interested broad;y in flow and instability control, acoustics and applying learning/control techniques for fluid flows. 
+
+An armchair thinker and a philosophist (a pretend-philosopher), I love anything remotely related to fantasy, mystery and conspiracy theories - I would definitely consider cryptozoology as an avocation. I also have a penchant for history and historical figures. I indulge myself in music (hard rock, progressive metal, melodic metal and more recently pop), TV Series (This list is enormous - my favorite ones include Seinfeld, South Park, Scrubs and IASIP) and occasionally quizzing. I love to code and learn new stuff along the way.  
 
 <a href="/cv.pdf">Here</a> is a link to my CV. Feel free to contact me via email, or any of the platforms mentioned on the sidebar. Cheers!
 
