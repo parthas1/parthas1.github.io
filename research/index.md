@@ -18,7 +18,7 @@ order: 4
 
 <br>
 <h3><u> Flow Control using ZNMF Devices </u></h3>
-<h1 class="title"><img id="centerimg9" src="/images/websiteCollatedStreamlines.png"></h1><small><center>The effect of a synthetic jet : (a) A stalled NACA0012 airfoil at AoA = 20°, (b) Actuating with the right set of parameters streamlines the body, image is a representative snapshot of the periodic dynamics and (c) The wrong set of parameters degrades the lift and stall performance</center></small>
+<h1 class="title"><img id="centerimg9" src="/images/websiteCollatedStreamlines.png"></h1><center><small>The effect of a synthetic jet : (a) A stalled NACA0012 airfoil at AoA = 20°, (b) Actuating with the right set of parameters streamlines the body, image is a representative snapshot of the periodic dynamics and (c) The wrong set of parameters degrades the lift and stall performance</small></center>
 
 #### We stand to gain immensely by manipulating fluid flows - in ways more than one can think of! An essential part of control is knowing the global dynamics of the system - which is usually unavailable in complicated scenarios like flow past a bluff, or for that matter, a streamlined body. Model reduction comes in handy - but understanding the basic flow dynamics is also insightful in the task of achieving perfect flow control. 
 
@@ -29,10 +29,10 @@ order: 4
 <br>
 <h3><u> Virtual Development of a Robotic Arm</u></h3>
 <h1 class="title"><img id="centerimg" src="/images/robot.png"></h1>
-<p><small><center> The modeled robot in the ADAMS environment</center></small></p>
+<p><center><small> The modeled robot in the ADAMS environment</small></center></p>
 
 <h1 class="title"><img id="centerimg" src="/images/controlled.jpg"></h1>
-<p><small><center> Results of the simulation carried out with and without using appropriate control systems</center></small></p>
+<p><center><small> Results of the simulation carried out with and without using appropriate control systems</small></center></p>
 
 #### Developing intuition for physical concepts is something crucial in a student's learning process. When I was pursuing my undergraduate, I did not have immediate access to fancy modules or learning kits, and learning by doing/exploring was instrumental in developing my skill set. This was especially true for courses involving dynamics and controls - it was interesting to read about, but also frustrating to not understand and visualize how a conceptually simple (though mechanically rich) four bar mechanism can be scaled up to manufacture robotic arms. Having a framework for such a conceptual visualization would have been nice. 
 
