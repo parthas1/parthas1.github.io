@@ -9,15 +9,17 @@ order: 4
 
 #### Here are some instances of stuff that I have worked/ am working on:
 
-###<u> Viscous Streaming </u>
+
+<h3><u> Viscous Streaming </u></h3>
 <h1 class="title"><img id="centerimg" src="/images/profile.jpg"></h1>
 #### Oscillatory flows initiated by solid bodies in harmonic motions are immensely rich in their dynamics. Low amplitude oscillations of simple bodies lead to a well studied phenomenon called viscous streaming, and high amplitude motion (with and without flow separation) are classified as Keulegan-Carpenter (KC) flows. The non-linear nature of the Navier Stokes equations leads to a significant rectified component in case of streaming, while higher fundamental modes kick in for KC flows.
 
 #### While the math (for streaming) has been set in stone for some time now, the physics of streaming in varied form and function, is IMHO, is still in part elusive. I'm hunting for the mechanics through two dimensional direct numerical investigations, guided by <a href="http://mattia-lab.com/">Prof. Mattia Gazzola</a>. <a href="http://mattia-lab.com/">We</a> use Remeshed Vortex Method(RvM) for the same, which has been used for Fluid Structure Interaction (FSI) problems in the past. I'm the principal scientific and software developer for fluid dynamics in the lab - thus I am comfortable in topics involving numerics, applied math, HPC, dynamical systems (Model reduction, FTLE), programming, visualization & data analysis. You can get a sense of what we are working towards by glancing through our <a href="https://parthas1.github.io/publications/">DFD abstracts</a>. We're also coming out with publications soon!  
 
-###<u> Flow Control using ZNMF Devices </u>
+
+<h3><u> Flow Control using ZNMF Devices </u></h3>
 <h1 class="title"><img id="centerimg" src="/images/websiteCollatedStreamlines.png"></h1>
-<p>The effect of a synthetic jet : (a) A stalled NACA0012 airfoil at AoA = 20 &#176, (b) Actuating with the right set of parameters streamlines the body, image is a representative snapshot of the periodic dynamics and (c) The wrong set of parameters degrades the lift and stall performance</p>
+<center><p><small>The effect of a synthetic jet : (a) A stalled NACA0012 airfoil at AoA = 20 &#176, (b) Actuating with the right set of parameters streamlines the body, image is a representative snapshot of the periodic dynamics and (c) The wrong set of parameters degrades the lift and stall performance</small></p></center>
 
 #### We stand to gain immensely by manipulating fluid flows - in ways more than one can think of! An essential part of control is knowing the global dynamics of the system - which is usually unavailable in complicated scenarios like flow past a bluff, or for that matter, a streamlined body. Model reduction comes in handy - but understanding the basic flow dynamics is also insightful in the task of achieving perfect flow control. 
 
@@ -25,12 +27,13 @@ order: 4
 
 #### We presented an aspect of the project at the 15th Asian Congress of Fluid Mechanics in Malaysia. The findings can be found in our journal publication linked <a href="https://parthas1.github.io/publications/">here</a>.
 
-###<u> Virtual Development of a Robotic Arm</u>
-<h1 class="title"><img id="centerimg" src="/images/robot.jpg"></h1>
-<p> The modeled robot in the ADAMS environment</p>
+
+<h3><u> Virtual Development of a Robotic Arm</u></h3>
+<h1 class="title"><img id="centerimg" src="/images/robot.png"></h1>
+<center><p><small> The modeled robot in the ADAMS environment</small></p></center>
 
 <h1 class="title"><img id="centerimg" src="/images/controlled.jpg"></h1>
-<p> Results of the simulation carried out with and without using appropriate control systems</p>
+<center><p><small> Results of the simulation carried out with and without using appropriate control systems</small></p></center>
 
 #### Developing intuition for physical concepts is something crucial in a student's learning process. When I was pursuing my undergraduate, I did not have immediate access to fancy modules or learning kits, and learning by doing/exploring was instrumental in developing my skill set. This was especially true for courses involving dynamics and controls - it was interesting to read about, but also frustrating to not understand and visualize how a conceptually simple (though mechanically rich) four bar mechanism can be scaled up to manufacture robotic arms. Having a framework for such a conceptual visualization would have been nice. 
 
