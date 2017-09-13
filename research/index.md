@@ -16,7 +16,7 @@ order: 4
 #### While the math (for streaming) has been set in stone for some time now, the physics of streaming in varied form and function, is IMHO, is still in part elusive. I'm hunting for the mechanics through two dimensional direct numerical investigations, guided by <a href="http://mattia-lab.com/">Prof. Mattia Gazzola</a>. <a href="http://mattia-lab.com/">We</a> use Remeshed Vortex Method(RvM) for the same, which has been used for Fluid Structure Interaction (FSI) problems in the past. I'm the principal scientific and software developer for fluid dynamics in the lab - thus I am comfortable in topics involving numerics, applied math, HPC, dynamical systems (Model reduction, FTLE), programming, visualization & data analysis. You can get a sense of what we are working towards by glancing through our <a href="https://parthas1.github.io/publications/">DFD abstracts</a>. We're also coming out with publications soon!  
 <br>
 <h3><u> Flow Control using ZNMF Devices </u></h3>
-<h1 class="title"><img id="centerimg9" src="/images/websiteCollatedStreamlines.png"></h1><center><small>The effect of a synthetic jet : (a) A stalled NACA0012 airfoil at AoA = 20°, (b) Actuating with the right set of parameters streamlines the body, image is a representative snapshot of the periodic dynamics and (c) The wrong set of parameters degrades the lift and stall performance</small></center><br>
+<h1 class="title"><img id="centerimg9" src="/images/websiteCollatedStreamlines.png"></h1><center><small>The effect of a synthetic jet : (a) A stalled NACA0012 airfoil at AoA = 20°, (b) Actuating with the right set of parameters streamlines the body, image is a representative snapshot of the periodic dynamics and (c) The wrong set of parameters degrades the lift and stall performance</small></center>
 
 #### We stand to gain immensely by manipulating fluid flows - in ways more than one can think of! An essential part of control is knowing the global dynamics of the system - which is usually unavailable in complicated scenarios like flow past a bluff, or for that matter, a streamlined body. Model reduction comes in handy - but understanding the basic flow dynamics is also insightful in the task of achieving perfect flow control. 
 
@@ -26,10 +26,10 @@ order: 4
 <br>
 <h3><u> Virtual Development of a Robotic Arm</u></h3>
 <h1 class="title"><img id="centerimg" src="/images/robot.png"></h1>
-<center><small> The modeled robot in the ADAMS environment</small></center><br>
+<center><small> The modeled robot in the ADAMS environment</small></center>
 
 <h1 class="title"><img id="centerimg" src="/images/controlled.jpg"></h1>
-<center><small> Results of the simulation carried out with and without using appropriate control systems</small></center><br>
+<center><small> Results of the simulation carried out with and without using appropriate control systems</small></center>
 
 #### Developing intuition for physical concepts is something crucial in a student's learning process. When I was pursuing my undergraduate, I did not have immediate access to fancy modules or learning kits, and learning by doing/exploring was instrumental in developing my skill set. This was especially true for courses involving dynamics and controls - it was interesting to read about, but also frustrating to not understand and visualize how a conceptually simple (though mechanically rich) four bar mechanism can be scaled up to manufacture robotic arms. Having a framework for such a conceptual visualization would have been nice. 
 
