@@ -43,3 +43,5 @@ order: 2
 * Calculus
 * Differential Equations
 * Linear Algebra and Numerical Analysis
+
+#### A complete list of courses I took in my undergraduate can be seen at my <a href="https://sites.google.com/site/tejaswinsarathy/links">old website</a>
