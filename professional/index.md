@@ -5,7 +5,7 @@ date:   2017-09-10 12:00:00
 order: 6
 ---
 
-I had several short-term stints in the industry as an intern. Without giving off too much information (IPR), here are some things that I worked on:
+<h4>I had several short stints in the industry as an intern. Without giving off too much information (IPR), here are some things that I worked on:</h4>
 
 <h3><u><a href="https://www.hul.co.in/">Technical Intern, Hindustan Unilever Ltd. (HUL)</a></u></h3>
 <h4> As a technical intern at HUL during the Summer of 2015, I was executing two projects. In the first one, I designed and implemented an indigenous automatic reel-changing mechanism for soap tablet wrapping. The automation reduced the downtime from <em>41 s</em> per reel change to <em>4 s</em>. To give you an idea about the frequency, a reel change occurs once approximately per hour. I was instrumental in recovering <em>11000</em> per annum per line in direct costs. The design process was challenging - it had to be safe, amenable to ease in automation, work for all SKUs (fancy term for all type of products) and sufficiently future proof in all aspects - loading, cutting and splicing. I could initiate the rollout of this design across affiliated soap factories (with the help of a fellow IITM alumnus, who worked on tweaking the design after my tenure was over). </h4>
