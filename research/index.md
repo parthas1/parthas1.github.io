@@ -19,7 +19,7 @@ order: 4
 <br>
 <h3><u> Flow Control using ZNMF Devices </u></h3>
 <h1 class="title"><img id="centerimg9" src="/images/websiteCollatedStreamlines.png"></h1>
-<p><small><center>The effect of a synthetic jet : (a) A stalled NACA0012 airfoil at AoA = 20°, (b) Actuating with the right set of parameters streamlines the body, image is a representative snapshot of the periodic dynamics and (c) The wrong set of parameters degrades the lift and stall performance</center></small></p>
+<small><center>The effect of a synthetic jet : (a) A stalled NACA0012 airfoil at AoA = 20°, (b) Actuating with the right set of parameters streamlines the body, image is a representative snapshot of the periodic dynamics and (c) The wrong set of parameters degrades the lift and stall performance</center></small>
 
 #### We stand to gain immensely by manipulating fluid flows - in ways more than one can think of! An essential part of control is knowing the global dynamics of the system - which is usually unavailable in complicated scenarios like flow past a bluff, or for that matter, a streamlined body. Model reduction comes in handy - but understanding the basic flow dynamics is also insightful in the task of achieving perfect flow control. 
 
