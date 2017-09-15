@@ -10,5 +10,3 @@ include: ['_sections']
 google_verify: _rSSpuGR3IyyksD8v_RjdKn5y4KPAHW48wx5TOqlZEU
 plugins:
   - jekyll-seo-tag
-
-  <meta name="google-site-verification" content="" />
