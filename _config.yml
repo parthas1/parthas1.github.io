@@ -7,3 +7,5 @@ baseurl: ""
 url: "https://parthas1.github.io/"
 github_username: parthas1
 include: ['_sections']
+plugins:
+  - jekyll-seo-tag
