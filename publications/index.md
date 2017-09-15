@@ -22,6 +22,6 @@ International Journal of Fluid Mechanics Research [[dl-link](http://www.dl.begel
 #### ***Tejaswin Parthasarathy***, Das SP 
 15th Asian Congress of Fluid Mechanics [[dl-link](http://stacks.iop.org/1742-6596/822/i=1/a=012009)]
 
-### **Some aspects of flow control over a NACA0015 airfoil using synthetic jets**
+### **ADAMS-MATLAB Co-Simulation of A Serial Manipulator**
 #### ***Tejaswin Parthasarathy***, Vignesh Srinivasaragavan and Soundarapandian Santhanakrishnan
 ICMME 2016 [[dl-link](https://doi.org/10.1051/matecconf/20179508002)]

@@ -16,4 +16,4 @@ An armchair thinker, I love anything remotely related to fantasy, mystery and co
 
 <a href="/cv.pdf">Here</a> is a link to my CV and <a href="https://sites.google.com/site/tejaswinsarathy/"> here </a> is my old personal site. Feel free to contact me via any of the platforms mentioned on the sidebar. Cheers!
 
-* Shoutout to <a href="https://rbavishi.github.io/">Rohan Bavishi</a> from whom I directly lifted the website front and backend 
+* Shoutout to <a href="https://rbavishi.github.io/">Rohan Bavishi</a> for the website inspiration
