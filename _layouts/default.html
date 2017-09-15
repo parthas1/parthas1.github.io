@@ -3,6 +3,9 @@
   <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      {% if site.google_verify %}
+        <meta name="google-site-verification" content="{{ site.google_verify }}">
+      {% endif %}
       <title>Tejaswin Parthasarathy - {{ page.title }}</title>
       <meta name="viewport" content="width=device-width">
 
