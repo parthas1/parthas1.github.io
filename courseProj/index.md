@@ -21,7 +21,7 @@ order: 5
 <h3> Undergraduate </h3>
 <h3><u> Quick solutions for inviscid flow past arbitrarily distributed circular cylinders </u></h3>
 <h4> Instructor : <a href="https://apm.iitm.ac.in/fmlab/arul/"> Prof. Arul K Prakash</a>, AM5530, IITM </h4>
-<h1 class="title"><img id="centerimg" src="/images/am5530Streamlines.jpg"></h1><center><small>Streamlines for uniform inviscid flow past a two cylinder system for 45° flow angle, with the ratio of radii being 2</small></center><p></p>
+<h1 class="title"><img id="centerimg" src="/images/am5530Streamlines.png"></h1><center><small>Streamlines for uniform inviscid flow past a two cylinder system for 45° flow angle, with the ratio of radii being 2</small></center><p></p>
 <p><small>	Analysis of inviscid flows are tractable using complex number theory, with suitable domain transformations. Such analyses gives an intuition to the user about the physics of fluids. Using Crowdy's <a href="http://wwwf.imperial.ac.uk/~dgcrowdy/_producer/PubFiles/Paper-15.pdf"> work</a>, I was able to recontruct solutions for uniform oriented flows past a set of cylinders. This called for implementing numerical algorithms efficiently in MATLAB (predominantly) and Mathematica (for symbolic computations), enabling me to compute solutions for complicated systems within 30s.<br>
 [<a href="/docs/PF_Cylinders_TejaswinP.pdf">pdf</a>]
 </small></p>
