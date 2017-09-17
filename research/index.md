@@ -10,7 +10,7 @@ order: 4
 <p><small>	Here are some instances of stuff that I have worked/ am working on:</small></p>
 <p></p>
 <h3><u> Viscous Streaming </u></h3>
-<h1 class="title"><img id="centerimg" src="/images/profile.jpg"></h1>
+<h1 class="title"><img id="centerimg" src="/images/placeholder.png"></h1>
 <p></p>
 <p><small>	Oscillatory flows initiated by solid bodies in harmonic motions are immensely rich in their dynamics. Low amplitude oscillations of simple bodies lead to a well studied phenomenon called viscous streaming, and high amplitude motion (with and without flow separation) are classified as Keulegan-Carpenter (KC) flows. The non-linear nature of the Navier Stokes equations leads to a significant rectified component in case of streaming, while higher fundamental modes kick in for KC flows.
 

@@ -4,7 +4,7 @@ title: Publications
 date:   2017-09-10 12:00:00
 order: 3
 ---
-Ranked chronologically
+In inverse chronological order
 
 ### **Scaling arguments for flows induced by oscillating cylinders**  
 #### ***Tejaswin Parthasarathy***, Mattia Gazzola
