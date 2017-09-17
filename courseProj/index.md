@@ -22,13 +22,13 @@ order: 5
 <h3><u> Quick solutions for inviscid flow past arbitrarily distributed circular cylinders </u></h3>
 <h4> Instructor : <a href="https://apm.iitm.ac.in/fmlab/arul/"> Prof. Arul K Prakash</a>, AM5530, IITM </h4>
 <h1 class="title"><img id="centerimg" src="/images/am5530Streamlines.png"></h1><center><small>Streamlines for uniform inviscid flow past a two cylinder system for 45° flow angle, with the ratio of radii being 2</small></center><p></p>
-<p><small>	Analysis of inviscid flows are tractable using complex number theory, with suitable domain transformations. Such analyses gives an intuition to the user about the physics of fluids. Using Crowdy's <a href="http://wwwf.imperial.ac.uk/~dgcrowdy/_producer/PubFiles/Paper-15.pdf"> work</a>, I was able to recontruct solutions for uniform oriented flows past a set of cylinders. This called for implementing numerical algorithms efficiently in MATLAB (predominantly) and Mathematica (for symbolic computations), enabling me to compute solutions for complicated systems within 30s.<br>
+<p><small>	Analysis of inviscid flows are tractable using complex number theory, with suitable domain transformations. Such analyses gives an intuition to the user about the physics of fluids. Using Crowdy's <a href="http://wwwf.imperial.ac.uk/~dgcrowdy/_producer/PubFiles/Paper-15.pdf"> work</a>, I was able to reconstruct solutions for uniform oriented flows past a set of cylinders. This called for implementing numerical algorithms efficiently in MATLAB (predominantly) and Mathematica (for symbolic computations), enabling me to compute solutions for complicated systems within 30s.<br>
 [<a href="/docs/PF_Cylinders_TejaswinP.pdf">pdf</a>]
 </small></p>
 <p></p>
 <h3><u> Software for heat pipe design  </u></h3>
 <h4> Instructor : Prof. Sarit K Das, ME6220, IITM </h4>
-<p><small>	In a specialized course on Heat Exchangers and their design, I had to engineer a software that was capable of designing heat pipes, given a wide selection of input parameters. A heat pipe is a heat-transfer device that combines the principles of both thermal conductivity and phase transition to efficiently manage the transfer of heat between two solid interfaces. The software was designed to select the fluid material, solid material, the dimensions of the pipe among other parameters, while solving a constrained optimization problem.<br>
+<p><small>	In a specialized course on Heat Exchangers and their design, I had to engineer a software that was capable of designing heat pipes, given a wide selection of input parameters. A heat pipe is a heat transfer device that combines the principles of both thermal conductivity and phase transition to efficiently manage the transfer of heat between two solid interfaces. The software was designed to select the fluid material, solid material, the dimensions of the pipe among other parameters, while solving a constrained optimization problem.<br>
 [<a href="/docs/HeatPipe_TejaswinP.pdf">pdf</a>]
 </small></p>
 <p></p>
