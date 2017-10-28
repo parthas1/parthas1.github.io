@@ -6,6 +6,16 @@ order: 5
 ---
 
 <h3> Graduate </h3>
+<h3><u> A steady Stokes-PDE solver using Integral Equations Theory and Fast Algorithms </u></h3>
+<h4> Instructor : <a href="https://mathema.tician.de/aboutme/">Prof. Andreas Kloeckner</a>, <a href="https://relate.cs.illinois.edu/course/cs598apk-f17/">CS598</a>, UIUC </h4>
+<h1 class="title"><img id="centerimg" src="/images/dipole.png"></h1><center><small>The dipole kernel in evaluating the free-space Green's function for the 2-D Laplace equation (credits: Prof. Andreas Kloeckner)</small></center>
+<p></p>
+<p><small>	I am currenly developing a numerical solver in Python that can solve the linearized Navier Stokes equation (popularly known as the Stokes flow equations, for highly viscous fluids), using the Integral Equation version of the PDE, coupled with numerical techniques of Fast Algorithms. Using these techniques (such as the Fast Multipole Method (FMM)), it is possible to reduce the super-linear run time scaling of algorithms (a matrix-vector solve scales cubically) into a linear run time variant, using the low-rank properties of the fundamental PDE kernels! These tools are also amenable for easily generalizing to higher order, and thus offers amazing accuracy with less time to solution, which is not the case with other techniques, such as Finite Difference Methods. <br>
+Numerical solutions to the Stokes PDE may seem like a nasty problem, mainly because it is am indefinite elliptic and coupled PDE, which on discretizing frequently leads to ill-conditioned systems. By transforming the Stokes PDE into the integral equations form, it is possible to obtain a representation, called the second kind Fredholm equation, which leads to a decoupled system that has a bounded condition number independent of the mesh size. Solutions to the Stokes PDE are then easily obtained using Fast Algorithm techniques.<br>
+This solver adds on to existing infrastructure developed by <a href="https://github.com/inducer">Prof. Kloeckner</a> for such PDEs, and is targeted towards simulating complex geometries in Stokes flows. This ties nicely with my long-time research focus of applying streaming-based technologies to bio-hybrid systems enhance mixing, transport and drug-delivery applications to name a few. I also want to extend this to unsteady Stokes equations as future work.<br>
+[<a href="/docs/stokespde.pdf">pdf</a>]
+</small></p>
+<p></p>
 <h3><u> 3-D Navier-Stokes solver for simulation of atmospheric phenomena </u></h3>
 <h4> Instructor : <a href="https://www.atmos.illinois.edu/~bjewett/">Prof. Brian Ford Jewett</a>, <a href="https://www.atmos.illinois.edu/~bjewett/atms502.html">ATMS502</a>, UIUC </h4>
 <h1 class="title"><img id="centerimg" src="/images/cleft.png"></h1><center><small>A snapshot of a 3-D simulation of cold bubbles interacting with one another under the influence of gravity. You can see the cleft and lobe instability in the images</small></center>
