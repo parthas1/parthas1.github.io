@@ -19,12 +19,6 @@ order: 2
 * Numerical Fluid Dynamics
 * Computational Mechanics
 
-#### Math and Computing
-
-* Partial Differential Equations
-* Parallel Programming
-
-
 ### Undergraduate 
 
 #### Fluids
