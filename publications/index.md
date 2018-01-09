@@ -1,10 +1,10 @@
 ---
 layout: publication
 title: Publications 
-date:   2017-09-10 12:00:00
+date:   2018-01-09 12:00:00
 order: 3
 ---
-In inverse chronological order
+<a href="https://scholar.google.co.in/citations?user=ePMgfJ8AAAAJ&hl=en">Here's</a> the link to my Scholar profile, updated with the latest publications. In inverse chronological order-
 
 ### **Scaling arguments for flows induced by oscillating cylinders**  
 #### ***Tejaswin Parthasarathy***, Mattia Gazzola

@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Academics 
-date:   2017-09-10 12:00:00
+date:   2018-01-09 12:00:00
 order: 2
 ---
 
@@ -23,7 +23,7 @@ order: 2
 
 #### Fluids
 
-* Advanced FM
+* Basic and Advanced Fluid Mechanics
 * Introduction to Turbulent Flows   
 * Flow and Thermal Instabilities   
 
@@ -32,7 +32,7 @@ order: 2
 * Introduction to Computational Fluid Dynamics 
 * Design and Optimization of Energy Systems
 
-#### Math and Computing
+#### Math
 
 * Calculus
 * Differential Equations
