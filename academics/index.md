@@ -1,7 +1,7 @@
 ---
-layout: page 
-title: Academics 
-date:   2018-01-09 12:00:00
+layout: page
+title: Academics
+date:   2018-02-23 12:00:00
 order: 2
 ---
 
@@ -9,27 +9,33 @@ order: 2
 
 #### Fluids
 
+* Instability and Transition
+* Viscous Flows
+* Aeroacoustics
 * Inviscid Flows
-* Viscous Flows   
-* Aeroacoustics   
 
 #### Numerics
 
+* Numerical methods for PDEs
 * Fast Algorithms and Integral Equation Methods
 * Numerical Fluid Dynamics
 * Computational Mechanics
 
-### Undergraduate 
+#### Math
+
+* Partial Differential Equations (PDEs)
+
+### Undergraduate
 
 #### Fluids
 
 * Basic and Advanced Fluid Mechanics
-* Introduction to Turbulent Flows   
-* Flow and Thermal Instabilities   
+* Introduction to Turbulent Flows
+* Flow and Thermal Instabilities
 
 #### Numerics
 
-* Introduction to Computational Fluid Dynamics 
+* Introduction to Computational Fluid Dynamics
 * Design and Optimization of Energy Systems
 
 #### Math
