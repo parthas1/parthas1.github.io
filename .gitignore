@@ -36,9 +36,7 @@
 ehthumbs.db
 Thumbs.db
 
-/docs/CPV_TejaswinP.pdf
-/docs/HeatPipe_TejaswinP.pdf
-/docs/LDC_GMRES_TejaswinP.pdf
-/docs/nfd.pdf
-/docs/PF_Cylinders_TejaswinP.pdf
+# Source image files #
+######################
+/image_source
 
