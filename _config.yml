@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes@4.16.6"
+theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/my_picture.jpg"
-  bio              : "Another fundamentally curious grad student"
+  bio              : "Just a curious grad student"
   location         : "Champaign, IL"
   email            : "Please send the mail to tejaswin[dot]sarathy[at]gmail[dot]com"
   uri              : "https://parthas1.github.io"
@@ -115,9 +115,9 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "parthas1"
+  github           : "tp5uiuc"
   gitlab           :
-  google_plus      : "+TejaswinParthasarathy"
+  google_plus      :
   keybase          :
   instagram        :
   lastfm           :
@@ -268,7 +268,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -276,7 +276,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
 
 
 # Archives
