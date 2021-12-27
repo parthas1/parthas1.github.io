@@ -2,6 +2,8 @@ name: Build
 
 on:
   push
+    branches:
+      - production
 
 jobs:
   jekyll:
@@ -21,3 +23,4 @@ jobs:
     - uses:  helaili/jekyll-action@v2
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        target_branch: 'production'
