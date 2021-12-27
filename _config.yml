@@ -106,7 +106,7 @@ author:
   avatar           : "/assets/images/my_picture.jpg"
   bio              : "Just a curious grad student"
   location         : "Champaign, IL"
-  email            : "Please send the mail to tejaswin[dot]sarathy[at]gmail[dot]com"
+  email            : "mailto:tejaswin[dot]sarathy[at]gmail[dot]com"
   uri              : "https://parthas1.github.io"
   home             :
   bitbucket        :
@@ -132,7 +132,6 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
 
 # Reading Files
 include:
