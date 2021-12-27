@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.1" # same as adding an opacity of 0.5 to a black background
   overlay_image: /assets/images/frontpage/vortex_1600x586.png
   caption: "Photo credit: [**Giesbert Nijhuis**](https://youtu.be/Sj9irzI-Pzw)"
-excerpt: "This is my personal/research site which I use to communicate on topics of my interest."
+excerpt: "Personal site to communicate topics of my interest, mostly about physics, code & HPC."
 feature_row:
   - image_path: /assets/images/frontpage/streaming_1200x750.png
     alt: "research"
@@ -30,7 +30,11 @@ feature_row:
     btn_class: "btn--info"
     btn_label: "My Linkedin"
 intro:
-  - excerpt: 'I am a graduate student pursuing my doctorate in <a href="http://mechanical.illinois.edu/">Mechanical Sciences</a> at the <a href="http://illinois.edu/">University of Illinois at Urbana-Champaign</a>. My research is focused on uncovering fundamental fluid physics using accurate numerical algorithms, high performance parallel computing and a multitude of techniques for data analysis. I am also broadly interested in flow and instability control, acoustics, developing/applying learning and control techniques in fluid flow problems and applied math.'
+  - excerpt: 'I am a graduate student finishing up my doctorate in <a href="http://mechanical.illinois.edu/">Mechanical Sciences</a> at the <a href="http://illinois.edu/">University of Illinois at Urbana-Champaign</a>. My research focuses on uncovering non-linear dynamics of viscous fluids, soft/rigid structures, and their coupled interaction using computational, theoretical tools. To achieve this I have developed novel algorithms, crafted high-performant codes running on massively parallel architectures which are then integrated with stochastic optimization/learning techniques for inverse-design problems.
+    <br>
+    <br>
+    I am currently seeking opportunities.
+    Feel free to contact me at <b>tp5[at]illinois[dot]edu</b>'
 ---
 
 {% include feature_row id="intro" type="center"%}
