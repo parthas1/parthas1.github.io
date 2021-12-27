@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
+theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -106,8 +106,8 @@ author:
   avatar           : "/assets/images/my_picture.jpg"
   bio              : "Just a curious grad student"
   location         : "Champaign, IL"
-  email            : "mailto:tejaswin[dot]sarathy[at]gmail[dot]com"
-  uri              : "https://parthas1.github.io"
+  email            : "tejaswin[dot]sarathy[at]gmail[dot]com"
+  uri              : # "https://parthas1.github.io"
   home             :
   bitbucket        :
   codepen          :
@@ -118,6 +118,7 @@ author:
   github           : "tp5uiuc"
   gitlab           :
   google_plus      :
+  google_scholar   : "ePMgfJ8AAAAJ&hl=en"
   keybase          :
   instagram        :
   lastfm           :
