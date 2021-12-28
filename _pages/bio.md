@@ -74,5 +74,6 @@ Indian Institute of Technology Madras (IITM), 2012–2016
 - High-performance computing
 - Software at scale
 - Statistical and deep learning
+- Stochastic optimization tools (e.g CMAes) for forward and inverse-design
 
 For more information see my [publications](/publications) and [projects](/research).
