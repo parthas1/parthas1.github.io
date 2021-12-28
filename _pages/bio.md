@@ -56,23 +56,22 @@ Indian Institute of Technology Madras (IITM), 2012–2016
 - UIUC Grainger [MAVIS fellow](https://mechse.illinois.edu/news/39407)
 - [Cover](http://mattia-lab.com/wp-content/uploads/2019/10/00221120_878.pdf), Journal of Fluid Mechanics
 - H.C. Ting fellow, Mechanical Engineering, UIUC
-- IITM Z-Wing Award for all-round performance
+- IITM Z-Wing Award (for all-round performance)
 - Honors in Mechanical Engineering, IITM
-- Dr. Vivekanand Kochikar Award, IITM (best academic performance)
-- Dr. Dinesh Balagangadhar Prize, IITM (best academic performance)
-- Nissan Global Foundation Scholarship, IITM (overall performance)
+- Dr. Vivekanand Kochikar Award, IITM (for best academic performance)
+- Dr. Dinesh Balagangadhar Prize, IITM (for best academic performance)
+- Nissan Global Foundation Scholarship, IITM (for all-round performance)
 
 ### Teaching
 - UIUC Graduate Teacher Certificate
-- UIUC Teacher Ranked as Excellent by Students for Spring 2020
+- UIUC Teacher Ranked as Excellent by Students in Spring 2020
 
 ## Interests
 - Continuum (fluid/solid) mechanics
-- Applied mathematics
 - Numerical algorithms
 - High-performance computing
 - Software at scale
 - Statistical and deep learning
-- Stochastic optimization tools (e.g CMAes) for forward and inverse-design
+- Forward and inverse-design via stochastic optimization
 
 For more information see my [publications](/publications) and [projects](/research).
