@@ -1,13 +1,13 @@
 # main links
 main:
+  - title: "Bio"
+    url: /bio/
   - title: "Research Interests"
     url: /research/
   - title: "Course projects"
     url: /coursework/
   - title: "Publications"
     url: /publications/
-  - title: "CV/Scholastic"
-    url: /cv/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
