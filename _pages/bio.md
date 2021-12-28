@@ -53,9 +53,9 @@ Indian Institute of Technology Madras (IITM), 2012–2016
 ## Awards
 
 ### Scholastic
-- UIUC Grainger [MAVIS fellowship](https://mechse.illinois.edu/news/39407)
+- UIUC Grainger [MAVIS fellow](https://mechse.illinois.edu/news/39407)
 - [Cover](http://mattia-lab.com/wp-content/uploads/2019/10/00221120_878.pdf), Journal of Fluid Mechanics
-- UIUC Mechanical Sciences H.C.Ting Distinguished Fellowship
+- H.C. Ting fellow, Mechanical Engineering, UIUC
 - IITM Z-Wing Award for all-round performance
 - Honors in Mechanical Engineering, IITM
 - Dr. Vivekanand Kochikar Award, IITM (best academic performance)
