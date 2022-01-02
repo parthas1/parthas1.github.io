@@ -81,9 +81,3 @@ Indian Institute of Technology Madras (IITM), 2012–2016
 **Toolchain**: Git, CMake, setuptools, CI <br>
 **Markup**: Latex, Markdown, org-mode, HTML5, CSS <br>
 **Libraries**: Boost, SDL2, Brigand, Blaze, Pybind11, numpy, scipy, matplotlib, pandas
-
-
-<!-- ### Teaching
-- UIUC Graduate Teacher Certificate
-- UIUC Teacher Ranked as Excellent by Students in Spring 2020 -->
-
