@@ -3,7 +3,6 @@ layout: single
 permalink: /publications/
 title: "Publications"
 excerpt: "publications"
-last_modified_at: 2018-05-17T08:41:35-04:00
 ---
 
 Here are the links to my research profiles
