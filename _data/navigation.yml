@@ -8,7 +8,9 @@ main:
     url: /software/
   - title: "Projects"
     url: /coursework/
-  - title: "Teaching & Outreach"
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Outreach"
     url: /outreach/
   - title: "Publications"
     url: /publications/
