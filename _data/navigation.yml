@@ -2,10 +2,14 @@
 main:
   - title: "Bio"
     url: /bio/
-  - title: "Research Interests"
+  - title: "Research"
     url: /research/
-  - title: "Course projects"
+  - title: "Software"
+    url: /software/
+  - title: "Projects"
     url: /coursework/
+  - title: "Teaching & Outreach"
+    url: /outreach/
   - title: "Publications"
     url: /publications/
   # - title: "Sample Posts"
