@@ -40,7 +40,7 @@ Indian Institute of Technology Madras (IITM), 2012–2016
 - **Graduate Research Assistant**, UIUC, 2017–2022
 
 - **Graduate Teaching Assistant**, UIUC, 2019–2021
-  - Designed and delivered lectures for [ME447 : Computational dynamics and design of soft systems](https://mechse.illinois.edu/graduate/graduate-course-offerings/ME447)
+  - Designed and delivered lectures for [ME447 : Computational dynamics and design of soft systems](/teaching/).
 
 - **Unilever Leaders Intern**, Unilever Ltd., India, May 2015–July 2015
   - Designed an autonomous mechanism to change reels of soap wrappers and implemented it onsite
