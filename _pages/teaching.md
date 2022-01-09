@@ -3,9 +3,11 @@ layout: single
 permalink: /teaching/
 title: "Teaching"
 excerpt: "Teaching activities"
+classes: wide
 ---
 
 I designed and co-taught a course at UIUC—[ME447 : Computational dynamics and design of soft systems](https://mechse.illinois.edu/graduate/graduate-course-offerings/ME447)—at the intersection of stochastic optimization, soft systems/robotics and computational modeling for three semesters (Spring 2019, 2020 and Fall 2021).
+{: style="text-align: justify;"}
 
 The entire course is open-sourced and available online
 with detailed description, content and lesson plans:
