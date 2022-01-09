@@ -3,6 +3,7 @@ layout: single
 permalink: /publications/
 title: "Publications"
 excerpt: "publications"
+classes: wide
 ---
 
 Here are the links to my research profiles
