@@ -11,7 +11,7 @@ Here are the links to my research profiles
 [Google Scholar](https://scholar.google.co.in/citations?user=ePMgfJ8AAAAJ&hl=en){: .btn .btn--info}
 [ResearchGate](https://www.researchgate.net/profile/Tejaswin-Parthasarathy){: .btn .btn--info}
 
-For your convenience, I also list my publications here:
+For your convenience, I also list my publications (chronologically) here:
 
 ## Preprints
 
@@ -21,39 +21,39 @@ For your convenience, I also list my publications here:
 2. **Tejaswin Parthasarathy**, Bhosale, Gazzola.<br>
 [A hyperelastic oscillatory Couette system](http://mattia-lab.com/wp-content/uploads/2021/12/tp_yb_mg_2021.pdf), arXiv:2011.09453.
 
-3. Chan, Bhosale, **Tejaswin Parthasarathy**, Gazzola.<br>
-[Three-dimensional geometry and topology effects in viscous streaming](http://mattia-lab.com/wp-content/uploads/2021/06/fkc_yb_tp_mg_2021.pdf), arXiv:2106.08447.
-
 ## Peer-reviewed publications
 
-1. **Tejaswin Parthasarathy**^, Bhosale^, Gazzola.<br>
+1. Chan, Bhosale, **Tejaswin Parthasarathy**, Gazzola.<br>
+[Three-dimensional geometry and topology effects in viscous streaming](https://mattia-lab.com/wp-content/uploads/2022/01/fkc_yb_tp_mg_2022.pdf), Journal of Fluid Mechanics, 2022.
+
+2. **Tejaswin Parthasarathy**^, Bhosale^, Gazzola.<br>
 [A remeshed vortex method for mixed rigid/soft body fluid–structure interaction.](http://mattia-lab.com/wp-content/uploads/2021/07/yb_tp_mg_JCP_2021.pdf), Journal of Computational Physics, 2021.
 
-2. Zhang, Naughton, **Tejaswin Parthasarathy**, Gazzola.<br>
+3. Zhang, Naughton, **Tejaswin Parthasarathy**, Gazzola.<br>
 [Friction modulation in limbless, three-dimensional gaits and heterogeneous terrains](http://mattia-lab.com/wp-content/uploads/2021/10/xz_nn_tp_mg_2021.pdf), Nature Communications, 2021.
 
-3. Naughton, Sun, Tekinalp, **Tejaswin Parthasarathy**, Chowdhary, Gazzola.<br>
+4. Naughton, Sun, Tekinalp, **Tejaswin Parthasarathy**, Chowdhary, Gazzola.<br>
 [Elastica: A compliant mechanics environment for soft robotic control](http://mattia-lab.com/wp-content/uploads/2021/04/nn_js_at_tp_gc_mg_2021.pdf), IEEE Robotics and Automation Letters, 2021.
 
-4. Bhosale, **Tejaswin Parthasarathy**, Gazzola.<br>
+5. Bhosale, **Tejaswin Parthasarathy**, Gazzola.<br>
 [Shape curvature effects in viscous streaming](http://mattia-lab.com/wp-content/uploads/2020/09/yb_tp_mg_2020.pdf), Journal of Fluid Mechanics, 2020.
 
-5. Chang, Halder, Shih, Tekinalp, **Tejaswin Parthasarathy**, Gribkova, Chowdhary, Gillette, Gazzola, Mehta.
+6. Chang, Halder, Shih, Tekinalp, **Tejaswin Parthasarathy**, Gribkova, Chowdhary, Gillette, Gazzola, Mehta.
 [Energy shaping control of a CyberOctopus soft arm](http://mattia-lab.com/wp-content/uploads/2021/02/hsg_uh_mg_pm_2020.pdf), IEEE Conference on Decision and Control (CDC), 2020.
 
-6. **Tejaswin Parthasarathy**, Chan, Gazzola.<br>
+7. **Tejaswin Parthasarathy**, Chan, Gazzola.<br>
 [Streaming-enhanced flow-mediated transport](http://mattia-lab.com/wp-content/uploads/2019/09/TP_FKC_MG_JFM_2019.pdf), Journal of Fluid Mechanics, 2019. [\_Cover\_](http://mattia-lab.com/wp-content/uploads/2019/10/00221120_878.pdf)
 
-7. Zhang, Chan, **Tejaswin Parthasarathy**, Gazzola.<br>
+8. Zhang, Chan, **Tejaswin Parthasarathy**, Gazzola.<br>
 [Modeling and simulation of complex dynamic musculoskeletal architectures](http://mattia-lab.com/wp-content/uploads/2019/11/xz_fkc_tp_mg_2019.pdf), Nature Communications, 2019.
 
-8. **Tejaswin Parthasarathy**, Das.<br>
+9. **Tejaswin Parthasarathy**, Das.<br>
 [Effect of parameters on controlled flow using synthetic jet](http://www.dl.begellhouse.com/journals/71cb29ca5b40f8f8,forthcoming,18329.html), International Journal of Fluid Mechanics Research, 2017.
 
-9. **Tejaswin Parthasarathy**, Das.<br>
+10. **Tejaswin Parthasarathy**, Das.<br>
 [Some aspects of flow control over a NACA0015 airfoil using synthetic jets](https://iopscience.iop.org/article/10.1088/1742-6596/822/1/012009), 15th Asian Congress of Fluid Mechanics, 2016.
 
-10. **Tejaswin Parthasarathy**, Srinivasaragavan, Santhanakrishnan.<br>
+11. **Tejaswin Parthasarathy**, Srinivasaragavan, Santhanakrishnan.<br>
 [ADAMS-MATLAB Co-Simulation of A Serial Manipulator](https://doi.org/10.1051/matecconf/20179508002), ICMME 2016.
 
 ## Theses
