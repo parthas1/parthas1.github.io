@@ -41,7 +41,7 @@ title: "Bio blurb"
 ---
 
 {: style="text-align: justify;"}
-I am a graduate student finishing up my PhD in <a href="http://mechanical.illinois.edu/">Mechanical Sciences</a> at the <a href="http://illinois.edu/">University of Illinois at Urbana-Champaign</a>. My research focuses on uncovering non-linear dynamics of viscous fluids, soft/rigid structures, and their coupled interaction using computational, theoretical tools. To achieve this I have developed novel algorithms, crafted high-performant codes running on massively parallel architectures which are then integrated with stochastic optimization/learning techniques for inverse-design problems. My [full bio is available here](/bio/).
+I am a graduate student finishing up my PhD in <a href="http://mechanical.illinois.edu/">Mechanical Sciences</a> at the <a href="http://illinois.edu/">University of Illinois at Urbana-Champaign</a>. My research focuses on uncovering non-linear dynamics of viscous fluids, soft/rigid structures, and their coupled interaction using computational, theoretical tools. To achieve this I have developed novel algorithms, crafted high-performant codes running on massively parallel architectures which are then integrated with stochastic optimization/learning techniques for inverse-design problems. More information [is available here](/bio/).
 
 <!-- Need to insert a profile image here -->
 
