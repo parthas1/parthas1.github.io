@@ -4,17 +4,34 @@ permalink: /projects/physics/
 title: "Flow & Soft systems"
 excerpt: "physics"
 classes: wide
+streaming_gallery:
+  - url: /assets/images/projects/streaming_cover.png
+    image_path: /assets/images/projects/streaming_cover.png
+    alt: "streaming_cover"
+    title: "Streaming response from a cylinder (top) and a bullet (below) designed for fast transport"
+  - url: /assets/images/projects/3D_streaming.png
+    image_path: /assets/images/projects/3D_streaming.png
+    alt: "3D_streaming"
+    title: "Streaming response from a sphere"
+soft_gallery:
+  - url: /assets/images/projects/resonance.png
+    image_path: /assets/images/projects/resonance.png
+    alt: "solid_resonance"
+    title: "Flows can also setup resonances within the solid!"
+  - url: /assets/images/projects/ball_in_vortex_compressed.gif
+    image_path: /assets/images/projects/ball_in_vortex_compressed.gif
+    alt: "ball_vortex"
+    title: "A soft cylinder placed in a Taylor–Green vortex"
+  - url: /assets/images/projects/flagella.png
+    image_path: /assets/images/projects/flagella.png
+    alt: "flagella"
+    title: "Simulations + experiments of a compliant motile swimmer in viscous flow"
+filaments_gallery:
+  - url: /assets/images/projects/wings.png
+    image_path: /assets/images/projects/wings.png
+    alt: "wings"
+    title: "Modeling a feathered-wing using filamentous rods"
 ---
-
-<!-- I'm passionate about fluid dynamics, across the length and time scales
-they operate in - be it Stokes, intermediate or turbulent flows, and
-concomitant applications. I'm interested in fluid physics, numerical
-simulations of fluid flows—especially concerning fluid-structure interaction,
-numerical algorithms, high performance and parallel computing, flow and
-instability control, aeroacoustics and control and possibly applying learning
-techniques in fluids. Thus the core of my present (and future) research is broadly
-in applied math, HPC, theoretical and applied mechanics and dynamical system concepts.
-{: style="text-align: justify;"} -->
 
 <!-- # Flow-structure interaction
 
@@ -30,33 +47,87 @@ a two dimensional body.
   <figcaption>Flow past a cylinder, Re=300.</figcaption>
 </figure> -->
 
-<!-- # Viscous Streaming
-Oscillatory flows initiated by solid bodies in harmonic motions are immensely
-rich in their dynamics. Low-amplitude oscillations of simple bodies lead to a
-well-studied phenomenon called viscous streaming, and high amplitude motions
-(with and without flow separation) are classified as Keulegan–Carpenter (KC)
-flows. The non-linear nature of the Navier–Stokes equations leads to a significant
-rectified (aka steady) component in the case of streaming, while higher modes kick
-in for KC flows.
+## Viscous Streaming
+Viscous streaming arises when an immersed body undergoes small-amplitude oscillations in a viscous fluid, and it is perhaps the most efficient way to use inertia at the microscale. Almost nothing is known about it, beyond simple shapes such as cylinders or spheres. We investigated viscous streaming beyond classical settings for the rational manipulation of flow topology, through regulated variation of object geometry. We showcased its use in transport devices (such as a micro-robot delivering drugs
+to a target cell) and in microfluidic trapping/clearing devices.
 {: style="text-align: justify;"}
- -->
 
-<!-- While the math (for streaming) has been set in stone for some time now, the physics
-of streaming, in its varied form and function is IMHO, still elusive. I'm hunting
-for these mechanics through two dimensional direct numerical investigations.
-I am involved in scientific software development for fluid dynamics in the lab, working
-on topics such as numerics, applied math, HPC, dynamical systems (Model reduction,
-FTLE), programming, visualization and data analysis.
+{% include gallery id="streaming_gallery"%}
+
+### More information
+- Bhosale^, Vishwanathan^,  **Tejaswin Parthasarathy**, Juarez, Gazzola.<br>
+[Multi-curvature viscous streaming: flow topology and particle manipulation](http://mattia-lab.com/wp-content/uploads/2021/11/yb_gv_tp_gJ_gm_2021.pdf), arXiv:2111.07184.
+{: style="font-size:smaller"}
+
+- Chan, Bhosale, **Tejaswin Parthasarathy**, Gazzola.<br>
+[Three-dimensional geometry and topology effects in viscous streaming](https://mattia-lab.com/wp-content/uploads/2022/01/fkc_yb_tp_mg_2022.pdf), Journal of Fluid Mechanics, 2022.
+{: style="font-size:smaller"}
+
+- Bhosale, **Tejaswin Parthasarathy**, Gazzola.<br>
+[Shape curvature effects in viscous streaming](http://mattia-lab.com/wp-content/uploads/2020/09/yb_tp_mg_2020.pdf), Journal of Fluid Mechanics, 2020.
+{: style="font-size:smaller"}
+
+- **Tejaswin Parthasarathy**, Chan, Gazzola.<br>
+[Streaming-enhanced flow-mediated transport](http://mattia-lab.com/wp-content/uploads/2019/09/TP_FKC_MG_JFM_2019.pdf), Journal of Fluid Mechanics, 2019. [\_Cover\_](http://mattia-lab.com/wp-content/uploads/2019/10/00221120_878.pdf)
+{: style="font-size:smaller"}
+
+## Soft systems immersed in flows
+Soft, elastic and compliant structures immersed in flows are ubiquitous
+in engineering and biology, and especially in soft robotics, bio-medical and
+microfluidic devices. To dissect the mechanisms underlying such systems, we
+have analyzed archetypes of soft structure–flow interaction, using theoretical
+and numerical methods. The insights gained potentially pave way for novel means of
+flow manipulation in applications such as drug-delivery via compliant robotic devices.
 {: style="text-align: justify;"}
- -->
 
-<!-- [Here's a poster about streaming](https://www.instagram.com/p/BcseNTon6VY/)
- <figure class="align-center">
-  <img src="{{site.url}}{{site.baseurl}}/assets/images/research/placeholder.png" alt="">
-  <figcaption>Viscous streaming from an ellipse.</figcaption>
-</figure> -->
+{% include gallery id="soft_gallery" %}
 
-<!-- # Flow Control using ZNMF Devices
+### More information
+
+- An [online sandbox](https://gazzolalab.github.io/parallel_slab_sandbox/) I made to investigate the dynamics of an archetypal immersed soft structure.
+{: style="font-size:smaller"}
+
+- **Tejaswin Parthasarathy**, Bhosale, Gazzola.<br>
+[A hyperelastic oscillatory Couette system](http://mattia-lab.com/wp-content/uploads/2021/12/tp_yb_mg_2021.pdf), arXiv:2011.09453.
+{: style="font-size:smaller"}
+
+- **Tejaswin Parthasarathy**^, Bhosale^, Gazzola.<br>
+[A remeshed vortex method for mixed rigid/soft body fluid–structure interaction.](http://mattia-lab.com/wp-content/uploads/2021/07/yb_tp_mg_JCP_2021.pdf), Journal of Computational Physics, 2021.
+{: style="font-size:smaller"}
+
+- Zhang, Chan, **Tejaswin Parthasarathy**, Gazzola.<br>
+[Modeling and simulation of complex dynamic musculoskeletal architectures](http://mattia-lab.com/wp-content/uploads/2019/11/xz_fkc_tp_mg_2019.pdf), Nature Communications, 2019.
+{: style="font-size:smaller"}
+
+## Filamentous soft creatures
+From bridges and DNA to shoelaces, the ubiquity of elastic rods or filaments plays an important role in everyday life. We developed a numerical model for the simulation of soft filaments deforming in three-dimensional space, and accounting for all possible deformation modes, bending, twisting, shearing and stretching at every cross-section. These assemblies of soft tods are able to interact with the environment via models of muscular activity, sensory feedbacks, self-contact, surface friction and hydrodynamics, thus providing a physically accurate virtual playground to inquire into the functioning of complex muscular and robotics architectures.
+{: style="text-align: justify;"}
+
+{% include gallery id="filaments_gallery" %}
+
+### More information
+
+- An [online sandbox](https://gazzolalab.github.io/kinematic_snake_sandbox/snake_sandbox.html) I made to investigate limbless locomotion by soft snakes.
+{: style="font-size:smaller"}
+
+- Zhang, Naughton, **Tejaswin Parthasarathy**, Gazzola.<br>
+[Friction modulation in limbless, three-dimensional gaits and heterogeneous terrains](http://mattia-lab.com/wp-content/uploads/2021/10/xz_nn_tp_mg_2021.pdf), Nature Communications, 2021.
+{: style="font-size:smaller"}
+
+- Naughton, Sun, Tekinalp, **Tejaswin Parthasarathy**, Chowdhary, Gazzola.<br>
+[Elastica: A compliant mechanics environment for soft robotic control](http://mattia-lab.com/wp-content/uploads/2021/04/nn_js_at_tp_gc_mg_2021.pdf), IEEE Robotics and Automation Letters, 2021.
+{: style="font-size:smaller"}
+
+- Chang, Halder, Shih, Tekinalp, **Tejaswin Parthasarathy**, Gribkova, Chowdhary, Gillette, Gazzola, Mehta.
+[Energy shaping control of a CyberOctopus soft arm](http://mattia-lab.com/wp-content/uploads/2021/02/hsg_uh_mg_pm_2020.pdf), IEEE Conference on Decision and Control (CDC), 2020.
+{: style="font-size:smaller"}
+
+- Zhang, Chan, **Tejaswin Parthasarathy**, Gazzola.<br>
+[Modeling and simulation of complex dynamic musculoskeletal architectures](http://mattia-lab.com/wp-content/uploads/2019/11/xz_fkc_tp_mg_2019.pdf), Nature Communications, 2019.
+{: style="font-size:smaller"}
+
+
+<!-- ## Flow Control using ZNMF Devices
 We stand to gain immensely by manipulating fluid flows - in ways more than
 one can think of! An essential part of control is knowing the global dynamics
 of the system - which is usually unavailable in complicated scenarios like flow
@@ -88,8 +159,4 @@ in the regime that we were operating in.
   <figcaption>The effect of a synthetic jet : (a) A stalled NACA0012 airfoil at AoA = 20°,
   (b) Actuating with the right set of parameters streamlines the body and (c) The wrong set
   of parameters degrades the lift and stall performance.</figcaption>
-</figure>
-
-Due credits to Prof. Mattia for developing the core of the FSI-rVM code, which
-I have used to simulate the results shown in much of this website
-{: .notice--info} -->
+</figure> -->
