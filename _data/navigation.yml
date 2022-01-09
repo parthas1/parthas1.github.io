@@ -2,18 +2,18 @@
 main:
   - title: "Bio"
     url: /bio/
-  - title: "Research"
-    url: /research/
+  - title: "Projects"
+    url: /projects/
   - title: "Software"
     url: /software/
-  - title: "Projects"
-    url: /coursework/
   - title: "Teaching"
     url: /teaching/
   - title: "Outreach"
     url: /outreach/
   - title: "Publications"
     url: /publications/
+  # - title: "Projects"
+  #   url: /coursework/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
