@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/my_picture.jpg"
+  avatar           : "/assets/images/teja_profile_picture.png"
   bio              : "PhD, Computational physicist, HPC & software engineer"
   location         : "Champaign, IL"
   email            : "tejaswin[dot]sarathy[at]gmail[dot]com"
