@@ -6,12 +6,12 @@ main:
     url: /projects/
   - title: "Software"
     url: /software/
+  - title: "Publications"
+    url: /publications/
   - title: "Teaching"
     url: /teaching/
   - title: "Outreach"
     url: /outreach/
-  - title: "Publications"
-    url: /publications/
   # - title: "Projects"
   #   url: /coursework/
   # - title: "Sample Posts"
