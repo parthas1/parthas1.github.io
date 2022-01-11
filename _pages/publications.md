@@ -48,7 +48,7 @@ For your convenience, I also list my publications (chronologically) here:
 [Modeling and simulation of complex dynamic musculoskeletal architectures](http://mattia-lab.com/wp-content/uploads/2019/11/xz_fkc_tp_mg_2019.pdf), Nature Communications, 2019.
 
 9. **Tejaswin Parthasarathy**, Das.<br>
-[Effect of parameters on controlled flow using synthetic jet](http://www.dl.begellhouse.com/journals/71cb29ca5b40f8f8,forthcoming,18329.html), International Journal of Fluid Mechanics Research, 2017.
+[Effect of parameters on controlled flow using synthetic jet](/assets/docs/ijfmr_paper.pdf), International Journal of Fluid Mechanics Research, 2017.
 
 10. **Tejaswin Parthasarathy**, Das.<br>
 [Some aspects of flow control over a NACA0015 airfoil using synthetic jets](https://iopscience.iop.org/article/10.1088/1742-6596/822/1/012009), 15th Asian Congress of Fluid Mechanics, 2016.
