@@ -22,23 +22,21 @@ feature_row:
 
 ## Education
 
-- **Ph.D.** Mechanical Engineering,
-University of Illinois at Urbana-Champaign (UIUC), 2019–2022
+- **Ph.D.** + **M.S.** in Mechanical Engineering,
+University of Illinois at Urbana-Champaign (UIUC), 2016–2022
   - GPA: **4.0/4.0**
   - Concentation : Computational Science and Engineering
   - Minor : Statistics
 
-- **M.S.** Mechanical Engineering, UIUC, 2016–2018
-  - GPA: **4.0/4.0**
-
-- **B.Tech. (Honours)** Mechanical Engineering,
+- **B.Tech. (Honours)** in Mechanical Engineering,
 Indian Institute of Technology Madras (IITM), 2012–2016
   - GPA: **9.67/10.0**
+  - Honours focus : Computational Mechanics
 
 ## Positions
 
 - **Graduate Research Assistant**, UIUC, 2017–2022
-
+  - [Focus areas](#focus-areas)
 - **Graduate Teaching Assistant**, UIUC, 2019–2021
   - Designed and delivered lectures for [ME447 : Computational dynamics and design of soft systems](/teaching/).
 
@@ -53,14 +51,15 @@ Indian Institute of Technology Madras (IITM), 2012–2016
 ## Awards
 
 - UIUC Grainger [MAVIS fellow](https://mechse.illinois.edu/news/39407)
+- [Article in focus](https://www.nature.com/articles/s41467-021-26276-x), Nature Communications
 - [Cover](http://mattia-lab.com/wp-content/uploads/2019/10/00221120_878.pdf), Journal of Fluid Mechanics
 - H.C. Ting fellow, Mechanical Engineering, UIUC
 - IITM Z-Wing Award (for all-round performance)
-- Honors in Mechanical Engineering, IITM
-- Dr. Vivekanand Kochikar Award, IITM (for best academic performance)
-- Dr. Dinesh Balagangadhar Prize, IITM (for best academic performance)
-- Nissan Global Foundation Scholarship, IITM (for all-round performance)
-- Awarded KVPY, DST-Inspire fellowship
+- IITM Dr. Vivekanand Kochikar Award (for best academic performance)
+- IITM Dr. Dinesh Balagangadhar Prize (for best academic performance)
+- Nissan Global Foundation Scholarship (for all-round performance)
+- Awarded KVPY fellowship
+- Awarded DST-Inspire fellowship
 
 ## Focus areas
 - Continuum (fluid/solid) mechanics
@@ -69,6 +68,8 @@ Indian Institute of Technology Madras (IITM), 2012–2016
 - Software at scale
 - Statistical and deep learning
 - Forward and inverse-design via stochastic optimization
+
+See [projects](/projects/) for more details.
 <!-- TODO : link each to a project -->
 <!-- For more information see my [publications](/publications) and [projects](/research). -->
 
