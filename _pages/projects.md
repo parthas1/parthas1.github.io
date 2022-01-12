@@ -2,7 +2,7 @@
 layout: splash
 permalink: /projects/
 title: "Projects"
-excerpt: "Mechanics, numerics, HPC and machine learning"
+excerpt: "Mechanics, numerics, HPC, optimization and ML"
 header:
   overlay_image: /assets/images/research/rch_fpc.png
   image_description: "flowpastcylinder"
