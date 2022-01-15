@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /projects/hpc/
+permalink: /hpc/
 title: "High-performance computing"
 excerpt: "hpc"
 classes: wide

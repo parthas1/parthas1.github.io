@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /projects/numerics/
+permalink: /algorithms/
 title: "Numerical algorithms"
 excerpt: "numerics"
 classes: wide

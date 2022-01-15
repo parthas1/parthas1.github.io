@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /projects/physics/
+permalink: /physics/
 title: "Flow & Soft systems"
 excerpt: "physics"
 classes: wide

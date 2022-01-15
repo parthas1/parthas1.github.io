@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /projects/ml/
+permalink: /ml/
 title: "Machine learning + Stochastic optimization"
 excerpt: "ml"
 classes: wide
