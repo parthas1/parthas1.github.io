@@ -48,7 +48,9 @@ a two dimensional body.
 </figure> -->
 
 ## Viscous Streaming
-Viscous streaming arises when an immersed body undergoes small-amplitude oscillations in a viscous fluid, and it is perhaps the most efficient way to use inertia at the microscale. Almost nothing is known about it, beyond simple shapes such as cylinders or spheres. We investigated viscous streaming beyond classical settings for the rational manipulation of flow topology, through regulated variation of object geometry. We showcased its use in transport devices (such as a micro-robot delivering drugs
+Manipulating flow for microscale applications such as drug manufacture, transport,
+reagent mixing & separation benefit from inertial processes that are not
+easily accessible at these scales. Viscous streaming is perhaps the most efficient way to use inertia for such microscale applications, and arises when an immersed body undergoes small-amplitude oscillations in a viscous fluid. Almost nothing is known about it, beyond simple shapes such as cylinders or spheres. We investigated viscous streaming beyond classical settings for the rational manipulation of flow topology, through regulated variation of object geometry. We showcased its use in transport devices (such as a micro-robot delivering drugs
 to a target cell) and in microfluidic trapping/clearing devices.
 {: style="text-align: justify;"}
 
