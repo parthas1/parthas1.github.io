@@ -36,10 +36,9 @@ scaling up the algorithm to enable higher resolutions that include 10k elastic b
 ## Soft filament dynamics
 From bridges and DNA to shoelaces, the ubiquity of elastic rods or filaments
 plays an important role in everyday life. We developed numerics for the simulation
-of such deforming, 3D soft filaments accounting for all modes of deformation.
+of such 3D soft filaments accounting for all modes of deformation.
 We then coupled these soft-filaments to discrete-element methods for simulating realistic environments that
 involve other elastic and rigid bodies. We capture the coupling using scalable,
-(optimal)linear-complexity collision algorithms, customized for soft-
-body simulations. The resulting algorithm seamlessly integrates with evolutionary optimization,
+(optimal)linear-complexity collision algorithms, customized for our soft-body simulations. The resulting algorithm seamlessly integrates with evolutionary optimization,
 reinforcement learning and model-based control methods.
 {: style="text-align: justify;"}
