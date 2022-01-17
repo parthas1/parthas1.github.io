@@ -15,21 +15,21 @@ feature_row:
     url: "/physics/"
     btn_class: "btn--info"
     btn_label: "Learn More"
-  - image_path: /assets/images/frontpage/fp_kh_1200x750.png
+  - image_path: /assets/images/projects/swimmer.png
     alt: "numerics"
     title: "Numerics"
     # excerpt: "My academic projects and associated code"
     url: "/algorithms/"
     btn_class: "btn--info"
     btn_label: "Learn More"
-  - image_path: /assets/images/frontpage/bulbs.jpg
+  - image_path: /assets/images/projects/hpc_worldcloud.png
     alt: "hpc"
     title: "HPC"
     # excerpt: "If you are looking for a short read, take a look at my Linkedin"
     url: "/hpc/"
     btn_class: "btn--info"
     btn_label: "Learn more"
-  - image_path: /assets/images/frontpage/fp_kh_1200x750.png
+  - image_path: /assets/images/projects/learning_single_arm.png
     alt: "ml"
     title: "ML + stochastic optimization"
     # excerpt: "My academic projects and associated code"
